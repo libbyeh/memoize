@@ -1,5 +1,4 @@
 const arrayPrototypes = [
-
     {
       'name': "Array.length",
       'definition': "Sets or returns the number of elements in that array",
@@ -140,5 +139,5 @@ const arrayPrototypes = [
     }
   ];
 
-  
+
     
